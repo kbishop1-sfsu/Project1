@@ -1,0 +1,8 @@
+2022-08-05 01:05:06,059 INFO r.w.RequestServlet [http-8080-1] A request had been created
+2022-08-05 02:44:32,707 INFO r.w.EmployeeServlet [http-8080-1] Employee Employee{id='3', firstName='gavin', lastName='free', email='gfree@sfsu.edu', username='gfree'} has updated information
+2022-08-05 02:45:15,113 INFO r.w.EmployeeServlet [http-8080-1] Employee Employee{id='5', firstName='samuel', lastName='jackson', email='sjackson@gmail.com', username='sjackson'} has reset password
+2022-08-05 02:46:47,898 INFO r.w.EmployeeServlet [http-8080-1] Employee Employee{id='5', firstName='samuel', lastName='jackson', email='sjackson@gmail.com', username='sjackson'} has reset password
+2022-08-05 02:47:10,773 INFO r.w.EmployeeServlet [http-8080-1] Employee Employee{id='3', firstName='jessica', lastName='simpson', email='jsimpson@gmail.com', username='greenbeans'} has updated information
+2022-08-05 03:22:09,852 INFO r.w.LoginServlet [http-8080-1] Manager{id='9', firstName='johnny', lastName='depp', email='jdepp@gmail.com', username='jdepp'} has logged in.
+2022-08-05 03:24:32,973 INFO r.w.RequestServlet [http-8080-1] Request Reimbursement Request{employee=Employee{id='1', firstName='jenny', lastName='fishburne', email='jfishburne@gmail.com', username='jlopez'}, amount=35.76, start=2022-07-24, status='pending', end=null, descr='for dinner on saturday'} has been resolved
+2022-08-05 03:25:10,714 INFO r.w.RequestServlet [http-8080-1] Request Reimbursement Request{employee=Employee{id='1', firstName='jenny', lastName='fishburne', email='jfishburne@gmail.com', username='jlopez'}, amount=564.89, start=Sun Jul 24 00:00:00 PDT 2022, status='pending', end=null, descr='car rental'} has been created
